@@ -1,0 +1,26 @@
+{
+  "name": "switch-controller-widget",
+  "label": "Switch Controller",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "author": "Neo-Geo",
+  "description": "Widget to control electrical switches on the map.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasConfig": true,
+    "supportResultSet": false
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 400
+  }
+
+}
